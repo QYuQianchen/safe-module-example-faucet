@@ -6,6 +6,9 @@ This faucet module that can send out 0.1 ETH with an interval of minimum 1 hr. A
 
 ## Usage
 
+### Installation
+Please follow [Official Foundry docs](https://book.getfoundry.sh/getting-started/installation) to install foundry.
+
 ### Build
 
 ```shell
