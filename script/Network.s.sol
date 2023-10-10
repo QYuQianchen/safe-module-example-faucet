@@ -2,7 +2,7 @@
 pragma solidity >=0.8.0 <0.9.0;
 
 import "forge-std/Test.sol";
-import "../test/utils/SafeSingleton.t.sol";
+import "./utils/SafeSingleton.t.sol";
 
 contract NetworkUtilsScript is Test, SafeSingletonFixtureTest {
     uint256 internal deployerPrivateKey;
